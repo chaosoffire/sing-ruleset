@@ -167,6 +167,38 @@
     {
       "name": "Energized Protection Regional",
       "url": "https://energized.pro/regional/adblock.txt"
+    },
+    {
+      "name": "Abuse_urlhaus",
+      "url": "https://urlhaus.abuse.ch/downloads/hostfile/"
+    },
+    {
+      "name" : "OpenPhish",
+      "url": "https://openphish.com/feed.txt"
+    },
+    {
+      "name" : "hagezi_dns-blocklists - LIGHT",
+      "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/light.txt"
+    },
+    {
+      "name" : "hagezi_dns-blocklists - NORMAL",
+      "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/multi.txt"
+    },
+    {
+      "name" : "hagezi_dns-blocklists - PRO",
+      "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt"
+    },
+    {
+      "name" : "hagezi_dns-blocklists - PRO Plus Plus",
+      "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.plus.txt"
+    },
+    {
+      "name" : "hagezi_dns-blocklists - ULTIMATE",
+      "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/ultimate.txt"
+    },
+    {
+      "name" : "hagezi_dns-blocklists - Threat Intelligence Feeds",
+      "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.txt"
     }
   ],
   "IP_Lists":[
@@ -177,6 +209,14 @@
     {
       "name": "ET_Block",
       "url": "https://rules.emergingthreats.net/fwrules/emerging-Block-IPs.txt"
+    },
+    {
+      "name": "ET_Comp",
+      "url": "https://rules.emergingthreats.net/blockrules/compromised-ips.txt"
+    },
+    {
+      "name": "ISC_Block",
+      "url": "https://isc.sans.edu/block.txt"
     }
   ]
 }
