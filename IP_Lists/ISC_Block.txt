@@ -1,0 +1,48 @@
+#
+#   DShield.org Recommended Block List 
+#    (c) $year DShield.org
+#   some rights reserved. Details http://creativecommons.org/licenses/by-nc-sa/2.5/
+#   use on your own risk. No warranties implied.
+#   primary URL: https://feeds.dshield.org/block.txt
+#     PGP Sign.: https://feeds.dshield.org/block.txt.asc
+#
+#   comments: systems@isc.sans.edu
+#    updated: 2025-06-13T21:45:37.717186
+#   
+#    This list summarizes the top 20 attacking class C (/24) subnets
+#   over the last three days. The number of 'attacks' indicates the 
+#   number of targets reporting scans from this subnet.
+#
+#
+#    Columns (tab delimited):
+#
+#    (1) start of netblock  
+#    (2) end of netblock
+#    (3) subnet (/24 for class C)
+#    (4) number of targets scanned
+#    (5) name of Network 
+#    (6) Country
+#    (7) contact email address
+#
+#    If a range is assigned to multiple users, the first one is listed. 
+#     
+205.210.31.0	205.210.31.255	24	403	GOOGLE-CLOUD-PLATFORM	US	None
+45.82.76.0	45.82.76.255	24	398	CLOUDIE-AS-AP Cloudie Limited	HK	admin@cloudie.hk
+91.196.152.0	91.196.152.255	24	397	ATT-INTERNET4	US	abuse@att.net
+193.163.125.0	193.163.125.255	24	393	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
+147.185.132.0	147.185.132.255	24	392	GOOGLE-CLOUD-PLATFORM	US	None
+176.65.148.0	176.65.148.255	24	392	-	-	-
+204.76.203.0	204.76.203.255	24	391	INTELLIGENCE-ATOM-HOSTING	KN	None
+64.62.197.0	64.62.197.255	24	390	HURRICANE	US	abuse@he.net
+65.49.1.0	65.49.1.255	24	389	HURRICANE	US	abuse@he.net
+87.121.84.0	87.121.84.255	24	389	EPIKWIRE-NET	GB	>>UNKNOWN<<
+167.94.138.0	167.94.138.255	24	389	CENSYS-ARIN-01	US	None
+167.94.146.0	167.94.146.255	24	389	CENSYS-ARIN-02	US	None
+206.168.34.0	206.168.34.255	24	389	-	-	-
+198.235.24.0	198.235.24.255	24	388	GOOGLE-CLOUD-PLATFORM	US	None
+185.242.226.0	185.242.226.255	24	385	AS49870-BV	NL	abuse@westcall.ru
+104.234.115.0	104.234.115.255	24	383	DAILY	TR	abuse@orbittelekom.com
+167.94.145.0	167.94.145.255	24	382	CENSYS-ARIN-02	US	None
+199.45.154.0	199.45.154.255	24	381	CENSYS-ARIN-03	US	None
+64.62.156.0	64.62.156.255	24	380	HURRICANE	US	abuse@he.net
+213.209.143.0	213.209.143.255	24	380	RAPIDNET-DE Haunstetter Str. 19	DE	abuse@exklusiv.de
