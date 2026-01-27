@@ -1,0 +1,48 @@
+#
+#   DShield.org Recommended Block List 
+#    (c) $year DShield.org
+#   some rights reserved. Details http://creativecommons.org/licenses/by-nc-sa/2.5/
+#   use on your own risk. No warranties implied.
+#   primary URL: https://feeds.dshield.org/block.txt
+#     PGP Sign.: https://feeds.dshield.org/block.txt.asc
+#
+#   comments: systems@isc.sans.edu
+#    updated: 2026-01-27T22:30:14.603946
+#   
+#    This list summarizes the top 20 attacking class C (/24) subnets
+#   over the last three days. The number of 'attacks' indicates the 
+#   number of targets reporting scans from this subnet.
+#
+#
+#    Columns (tab delimited):
+#
+#    (1) start of netblock  
+#    (2) end of netblock
+#    (3) subnet (/24 for class C)
+#    (4) number of targets scanned
+#    (5) name of Network 
+#    (6) Country
+#    (7) contact email address
+#
+#    If a range is assigned to multiple users, the first one is listed. 
+#     
+64.62.197.0	64.62.197.255	24	292	HURRICANE	US	abuse@he.net
+206.168.34.0	206.168.34.255	24	285	-	-	-
+65.49.1.0	65.49.1.255	24	280	HURRICANE	US	abuse@he.net
+204.76.203.0	204.76.203.255	24	280	INTELLIGENCE-ATOM-HOSTING	KN	None
+167.94.138.0	167.94.138.255	24	278	CENSYS-ARIN-01	US	None
+91.196.152.0	91.196.152.255	24	277	ATT-INTERNET4	US	abuse@att.net
+193.163.125.0	193.163.125.255	24	277	INTERNET-MEASUREMENT	GB	>>UNKNOWN<<
+64.62.156.0	64.62.156.255	24	276	HURRICANE	US	abuse@he.net
+167.94.145.0	167.94.145.255	24	275	CENSYS-ARIN-02	US	None
+91.231.89.0	91.231.89.255	24	275	BHA	FR	abuse@bha-conseil.com
+194.180.48.0	194.180.48.255	24	274	-	-	-
+91.224.92.0	91.224.92.255	24	274	HOSTBALTIC	LT	>>UNKNOWN<<
+178.20.210.0	178.20.210.255	24	273	AS43260	TR	ip@dgn.net.tr
+198.235.24.0	198.235.24.255	24	273	GOOGLE-CLOUD-PLATFORM	US	None
+78.128.114.0	78.128.114.255	24	272	TAMATIYA-AS	BG	noc@4vendeta.com
+195.184.76.0	195.184.76.255	24	271	EAJ-GLOBAL	GB	>>UNKNOWN<<
+167.94.146.0	167.94.146.255	24	271	CENSYS-ARIN-02	US	None
+5.61.209.0	5.61.209.255	24	270	ASN-TCABLE	ES	tvcablesantapola-abuse@gestionclientes.org
+81.29.142.0	81.29.142.255	24	269	IMAQLIQ iqdata.center	RU	abuse@iqdata.center
+45.156.129.0	45.156.129.255	24	269	AS-BITSIGHT	PT	>>UNKNOWN<<
